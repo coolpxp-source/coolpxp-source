@@ -6,6 +6,7 @@ https://capsule-render.vercel.app/api?
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hyejin%20ahn&fontSize=90" />
+![typing intro](./typing-intro.svg)
 </div>
 
 <!--내용 부분-->
