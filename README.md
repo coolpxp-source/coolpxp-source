@@ -61,7 +61,7 @@
 
 ## 📂 Projects
 
-### 🧶 모여뜨기 (Moyeoddugi) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/coolpxp-source/react-personal-project-moyeoddugi-26.05.29)
+### 🧶 개인 프로젝트 : 모여뜨기 (Moyeoddugi) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/coolpxp-source/react-personal-project-moyeoddugi-26.05.29)
 > 뜨개질 커뮤니티 SNS + 카페 지도 플랫폼
 
 - **Stack:** React + Vite · Express · Oracle DB · Socket.io · JWT
@@ -71,7 +71,7 @@
 
 ---
 
-### 💍 MarryView (매리뷰) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/limhyojin3/SpringProjectTeam3)
+### 💍 팀 프로젝트 : MarryView (메리뷰) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/limhyojin3/SpringProjectTeam3)
 > 웨딩 업체 리뷰 플랫폼 팀 프로젝트
 
 - **Stack:** Spring Boot · MyBatis · MySQL · JSP · Vue.js 3
